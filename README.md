@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ismail Kilic
-- 👀 I’m interested in Java, Python, R
+- 👀 I’m interested in ✨Java,✨Python,✨R
 - 🌱 I’m currently learning Python, Selenium
 - 📫 How to reach me: www.linkedin.com/in/kilicismail4206
 
